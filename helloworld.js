@@ -1,3 +1,3 @@
-const slogan = "helloworld";
+const slogan = "helloWorld";
 
 module.exports = { slogan };
